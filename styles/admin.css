@@ -1,0 +1,36 @@
+.navbar>.container-fluid{
+    flex-direction: column;
+}
+
+button.btn.btn-primary{
+    width: 100%;
+}
+
+html,
+body {
+  height: 100%;
+  background-color: #0E208E !important;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #fff !important;
+    border-radius: 3%;
+    margin-top: 30px;
+    width: 30% !important;
+    margin-bottom: 80px;
+}
+
+.container-small{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    margin: 0 !important;
+    padding: 25px !important;
+    border-radius: 3%;
+}

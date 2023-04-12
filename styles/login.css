@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  background-color: #f0f0f0 !important;
+  background-image: url(../images/comida-rapida.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  justify-content: center;
+}
+
+.container{
+  background-color: white;
+  width: 600px !important;
+  margin: 0 !important;
+  padding: 100px !important;
+  border-radius: 5%;
+}
+
+.btn{
+  width: 100%;
+}
+
+
